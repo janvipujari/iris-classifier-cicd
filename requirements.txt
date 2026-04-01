@@ -1,5 +1,7 @@
 Flask==2.3.2
 joblib==1.3.2
-scikit-learn==1.3.2
-numpy==1.24.3
-gunicorn==21.2.0
+scikit-learn==1.2.2
+numpy==1.23.5
+gunicorn==21.2.0git add .
+git commit -m "fix sklearn version for render"
+git push
